@@ -1,6 +1,5 @@
 ;;
 ;;  emacs startup file
-;;  (partial)
 ;;
 ;; Michael Turmon 
 ;;
