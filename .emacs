@@ -3,8 +3,9 @@
 ;;
 ;; Michael Turmon 
 ;;
+
 (setq load-path
-      (append (list (expand-file-name "~/.EmacsDir")
+      (append (list (expand-file-name "~/.emacs.d")
 		    )
 	      load-path))
 (setq auto-mode-alist (cons '("\\.m$" . matlab-mode) (cons '("\\.py$" . python-mode) auto-mode-alist)))
