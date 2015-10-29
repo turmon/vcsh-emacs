@@ -1,7 +1,7 @@
 ;;
 ;;  emacs startup file
 ;;
-;; Michael Turmon 
+;; Michael Turmon
 ;;
 
 (setq load-path
